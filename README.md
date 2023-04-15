@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **exciting projects with people who have unique ideas.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nextjs-iamfitsum.vercel.app/](https://portfolio-nextjs-iamfitsum.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.iamfitsum.me/](https://www.iamfitsum.me/)
 
 - 💬 Ask me about anything, **would love to answer them.**
 
 - 📫 How to reach me **official.fitsum.mekonnen@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-nextjs-iamfitsum.vercel.app/resume](https://portfolio-nextjs-iamfitsum.vercel.app/resume)
+- 📄 Know about my experiences [https://www.linkedin.com/in/fitsum-mekonnen/](https://www.linkedin.com/in/fitsum-mekonnen/)
 
 - ⚡ Fun fact: **The only time I type fast is when coding – otherwise it’s hunt and peck!**
 
