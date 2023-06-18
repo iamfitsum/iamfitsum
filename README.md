@@ -36,6 +36,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfitsum&show_icons=true&locale=en&layout=compact" alt="iamfitsum" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamfitsum&show_icons=true&locale=en" alt="iamfitsum" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamfitsum&" alt="iamfitsum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamfitsum&" alt="iamfitsum" /></p>
