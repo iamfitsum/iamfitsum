@@ -1,4 +1,4 @@
-![ezgif com-effects](https://github.com/iamfitsum/iamfitsum/assets/94595852/1e899dac-13f4-4648-8d91-523c7a336413)
+![MasterHeader](https://github.com/iamfitsum/iamfitsum/assets/94595852/ab7036b4-064f-4065-adad-b4f6f054c8da)
 
 <h1 align="center">Hi 👋, I'm Fitsum Mekonnen</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
