@@ -1,3 +1,5 @@
+![ezgif com-effects](https://github.com/iamfitsum/iamfitsum/assets/94595852/1e899dac-13f4-4648-8d91-523c7a336413)
+
 <h1 align="center">Hi 👋, I'm Fitsum Mekonnen</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="333" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
