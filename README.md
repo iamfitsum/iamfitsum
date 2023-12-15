@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Fitsum Mekonnen</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="333" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
@@ -33,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -187,7 +185,6 @@
     />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    {" "}
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
