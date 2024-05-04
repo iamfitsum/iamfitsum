@@ -1,5 +1,3 @@
-`()#![MasterHeader](https://github.com/iamfitsum/iamfitsum/assets/94595852/ab7036b4-064f-4065-adad-b4f6f054c8da)`
-
 <h1 align="center">Hi👋, I'm Fitsum Mekonnen</h1>
 <h3 align="center">A passionate developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="333" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
