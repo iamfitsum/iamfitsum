@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects with people who have unique ideas.**
 
-- 👨‍💻 All of my projects are available at [https://www.iamfitsum.me/](https://www.iamfitsum.me/)
+- 👨‍💻 All of my projects are available at [https://iamfitsum.vercel.app](https://iamfitsum.vercel.app)
 
 - 💬 Ask me about anything, **would love to answer them.**
 
